@@ -1,0 +1,15 @@
+.nav-link {
+  color: #ffffff !important;
+}
+.nav-link:hover {
+  color: #ffa900 !important;
+}
+.btn-outline-light:hover,
+.btn-outline-warning:hover {
+  color: #000000 !important;
+  background-color: #ffa900 !important;
+}
+.btn-dark:hover {
+  color: #ffa900 !important;
+  background-color: #ffffff !important;
+}
